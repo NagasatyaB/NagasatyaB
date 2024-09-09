@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @NagasatyaB
 - 👀 I’m interested in Software Job
-- 🌱 I’m currently learning Web Development
+- 🌱 I’m currently learning JAVA
 - 📫 How to reach me satyabandi910@gmail.com
 
 <!---
